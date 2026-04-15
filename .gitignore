@@ -12,6 +12,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+AGENTS.md
 
 # IDE-specific (VS Code / STM32Cube)
 .vscode/
